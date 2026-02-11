@@ -119,14 +119,6 @@ Nomes de colunas são **normalizados** (ex.: "Valor Total", "valor_total", "Valo
 
 ---
 
-## 💼 Uso em propostas
-
-Quando este projeto estiver no seu portfólio, você pode usar em propostas:
-
-> *"Tenho um projeto pronto que automatiza relatórios em Excel e gera PDFs profissionais. Posso adaptar exatamente para sua necessidade."*
-
----
-
 ## 📄 Licença
 
 Uso livre para portfólio e adaptação em projetos clientes.
